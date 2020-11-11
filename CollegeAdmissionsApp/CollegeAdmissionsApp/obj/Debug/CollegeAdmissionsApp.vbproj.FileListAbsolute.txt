@@ -1,0 +1,12 @@
+C:\Users\Dave\Downloads\CollegeAdmissionsApp\CollegeAdmissionsApp\CollegeAdmissionsApp\bin\Debug\CollegeAdmissionsApp.exe.config
+C:\Users\Dave\Downloads\CollegeAdmissionsApp\CollegeAdmissionsApp\CollegeAdmissionsApp\bin\Debug\CollegeAdmissionsApp.exe
+C:\Users\Dave\Downloads\CollegeAdmissionsApp\CollegeAdmissionsApp\CollegeAdmissionsApp\bin\Debug\CollegeAdmissionsApp.pdb
+C:\Users\Dave\Downloads\CollegeAdmissionsApp\CollegeAdmissionsApp\CollegeAdmissionsApp\bin\Debug\CollegeAdmissionsApp.xml
+C:\Users\Dave\Downloads\CollegeAdmissionsApp\CollegeAdmissionsApp\CollegeAdmissionsApp\obj\Debug\CollegeAdmissionsApp.vbprojAssemblyReference.cache
+C:\Users\Dave\Downloads\CollegeAdmissionsApp\CollegeAdmissionsApp\CollegeAdmissionsApp\obj\Debug\CollegeAdmissionsApp.frmAdmissions.resources
+C:\Users\Dave\Downloads\CollegeAdmissionsApp\CollegeAdmissionsApp\CollegeAdmissionsApp\obj\Debug\CollegeAdmissionsApp.Resources.resources
+C:\Users\Dave\Downloads\CollegeAdmissionsApp\CollegeAdmissionsApp\CollegeAdmissionsApp\obj\Debug\CollegeAdmissionsApp.vbproj.GenerateResource.cache
+C:\Users\Dave\Downloads\CollegeAdmissionsApp\CollegeAdmissionsApp\CollegeAdmissionsApp\obj\Debug\CollegeAdmissionsApp.vbproj.CoreCompileInputs.cache
+C:\Users\Dave\Downloads\CollegeAdmissionsApp\CollegeAdmissionsApp\CollegeAdmissionsApp\obj\Debug\CollegeAdmissionsApp.exe
+C:\Users\Dave\Downloads\CollegeAdmissionsApp\CollegeAdmissionsApp\CollegeAdmissionsApp\obj\Debug\CollegeAdmissionsApp.xml
+C:\Users\Dave\Downloads\CollegeAdmissionsApp\CollegeAdmissionsApp\CollegeAdmissionsApp\obj\Debug\CollegeAdmissionsApp.pdb
